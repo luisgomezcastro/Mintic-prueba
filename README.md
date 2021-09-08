@@ -1,2 +1,3 @@
 # Mintic-prueba
-prueba 
+prueba
+mi primer push 
